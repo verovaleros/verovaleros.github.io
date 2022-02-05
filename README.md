@@ -13,12 +13,29 @@
 
 - Master Thesis Supervisor Specialist, 2019-2020, [The first comprehensive report on the state of the security of mobile phones of civil society. Jakub Čech](https://dspace.cvut.cz/handle/10467/87847). FEE, CTU in Prague, Czech Republic 
 
+# Teaching
+
+- Fall 2021, Teaching assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
+- Fall 2020, Teaching assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
+
 # Trainings
 
-- 2021 BlackHat Europe, co-trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
-- 2021 BlackHat USA, co-trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
-- 2020 BlackHat Europe, co-trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
-- 2020 BlackHat USA, co-trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
+- 2021 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
+- 2021 BlackHat USA, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
+- 2021 NorthSec, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
+- 2020 BlackHat Europe, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
+- 2020 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
+- 2020 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
+- 2019 Ekoparty, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
+- 2019 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
+- 2019 OWASP Czech Republic, trainer, Getting Your Hands Dirty: IoT Botnet Analysis
+- 2019 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
+- 2019 Troopers, trainer, Machine Learning for Network Security and Malware Detection
+- 2018 BlackHat Europe, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
+- 2018 HackLu, trainer, Getting Your Hands Dirty: How to Analyze the Behavior of Malware Traffic and Web Connections
+- 2018 Ekoparty, trainer, Advanced Malware Attacks In Your Network
+- 2016 Botconf, trainer, Getting your hands dirty: How to Analyze the Behavior of Malware Traffic and Web Connections
+
 
 # Contributions
 
