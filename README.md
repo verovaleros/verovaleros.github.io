@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 # Publications
 
 - [Hornet 40: network dataset of geographically placed honeypots](https://www.sciencedirect.com/science/article/pii/S2352340922000075).  Data in Brief, 107795. Valeros, V., & Garcia, S. (2022). 
