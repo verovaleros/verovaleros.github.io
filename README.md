@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<p align="left">
+     <img src="./github-metrics.svg" width="800" />
+</p>
 
 # Publications
 
