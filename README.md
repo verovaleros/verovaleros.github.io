@@ -29,6 +29,7 @@
 - 2019 Ekoparty, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
 - 2019 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
 - 2019 OWASP Czech Republic, trainer, Getting Your Hands Dirty: IoT Botnet Analysis
+- 2019 Internet Freedom Festival, trainer, Emergency VPN: Analyzing mobile network traffic to detect digital threats
 - 2019 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
 - 2019 Troopers, trainer, Machine Learning for Network Security and Malware Detection
 - 2018 BlackHat Europe, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
