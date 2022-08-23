@@ -1,7 +1,3 @@
-<p align="left">
-     <img src="./github-metrics.svg" width="800" />
-</p>
-
 # Publications
 
 ## Peer-reviewed Conferences and Journals
@@ -25,6 +21,8 @@
 
 # Trainings
 
+- 2022 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition
+- 2022 BlackHat USA, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition
 - 2021 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
 - 2021 BlackHat USA, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
 - 2021 NorthSec, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
@@ -45,10 +43,16 @@
 
 # Contributions
 
-- [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021, AIC, FEL, CTU in Prague, Czech Republic 
+- [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2022, AIC, FEL, CTU in Prague, Czech Republic 
 
 
 # Initiatives
 
 - Co-founder of the Independent Fund for Women in Tech, a global initiative to foster the participation of women in cybersecurity conferences, in 2018.
 - Co-founder of the MatesLab hackerspace in Mar del Plata, Argentina, in 2009.
+
+# Community Metrics
+
+<p align="left">
+     <img src="./github-metrics.svg" width="800" />
+</p>
