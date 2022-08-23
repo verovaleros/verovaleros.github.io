@@ -8,7 +8,7 @@
 - [An overview of the WCMS brute-forcing malware landscape](https://journal.cecyf.fr/ojs/index.php/cybin/article/view/18). The Journal on Cybercrime & Digital Investigations, 3(1), 20-29. Shirokova, A., & Valeros, V. (2017). 
 - [Make it count: an analysis of a brute-forcing botnet](https://journal.cecyf.fr/ojs/index.php/cybin/article/view/5).  The Journal on Cybercrime & Digital Investigations, 1(1). Valeros, V. (2016). 
 - [Educarse y divertirse, la Universidad y el Hackspace](http://sedici.unlp.edu.ar/handle/10915/18436). V Congreso de Tecnología en Educación y Educación en Tecnología. V. Valeros, S. Garcia (2010).
-- [De la universidad al hacklab, respetar y divertirse en la educación](https://www.researchgate.net/profile/Sebastian-Garcia-19/publication/256089694_World_Engineering_Congress_2010/links/0c9605219f19ebb717000000/World-Engineering-Congress-2010.pdf). World Engineering Congress. V. Valeros, S. Garcia (2010).
+- [De la universidad al hacklab, respetar y divertirse en la educación](https://www.researchgate.net/profile/Sebastian-Garcia-19/publication/256089694_World_Engineering_Congress_2010/). World Engineering Congress. V. Valeros, S. Garcia (2010).
 
 # Advising
 
