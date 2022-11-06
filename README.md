@@ -16,6 +16,7 @@
 
 # Teaching
 
+- Fall 2022, Teaching assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2021, Teaching assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2020, Teaching assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 
@@ -44,7 +45,6 @@
 # Contributions
 
 - [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2022, AIC, FEL, CTU in Prague, Czech Republic 
-
 
 # Initiatives
 
