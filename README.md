@@ -62,6 +62,7 @@ I have presented my research at international conferences such as Black Hat, Eko
 
 ## Conferences
 
+- Un análisis global de la privacidad en tráfico celular y cómo estás en riesgo de vigilancia, Ekoparty (Argentina), 2022
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, BSides BUD (Hungary), 2018
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, 34C3 (Germany), 2017
 - Knock Knock… Who’s there? admin admin, Get In! An Overview of the CMS Brute-Forcing Malware Landscape, Botconf (France), 2017
@@ -96,8 +97,6 @@ I have presented my research at international conferences such as Black Hat, Eko
 - How bluetooth may jeopardize your privacy. An analysis of people behavioral patterns in the street, DeepSec (Austria), 2014
 - Uncovering your trails Privacy issues of bluetooth devices, Ekoparty (Argentina), 2013
 - Análisis de anomalías en protocolos web para la detección de ataques, FASTA University, 2012
-- De la universidad al hacklab, respetar y divertirse en la educación, World Engineering Congress, 2010
-- Educarse y divertirse, la Universidad y el Hackspace, V Congreso de Tecnología en Educación y Educación en Tecnología, 2010
 
 # Community Metrics
 
