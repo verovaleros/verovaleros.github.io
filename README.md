@@ -47,6 +47,11 @@ I have presented my research at international conferences such as Black Hat, Eko
 - Co-founder of the Independent Fund for Women in Tech, a global initiative to foster the participation of women in cybersecurity conferences, in 2018.
 - Co-founder of the MatesLab hackerspace in Mar del Plata, Argentina, in 2009.
 
+# Review Boards
+
+- BlackHat Trainings Review Board, 2022-Ongoing
+- Ekoparty Security Conference Review board, 2018-Ongoing
+
 # Publications
 
 ## Peer-reviewed Conferences and Journals
