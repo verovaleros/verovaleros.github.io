@@ -1,3 +1,10 @@
+# About me
+I'm a senior researcher and project leader at the Stratosphere Research Laboratory in the Czech Technical University in Prague, with more than 10 years of experience in cybersecurity. My research strongly focuses on helping people. Currently specializing in threat intelligence, malware traffic analysis, and data analysis. I have made my career in both industry and academia.
+
+In my current position as a project leader, I help driving forward research and development projects, improve processes, and drive the community engagement of the groups I works with. As a senior researcher, I'm responsible for the research, development, and customer support at the Civilsphere project, dedicated to protecting civil society organizations and individuals at risk from targeted digital threats.
+
+I have presented my research at international conferences such as Black Hat, EkoParty, Botconf, Virus Bulletin, Deepsec, and others. I'm the co-founder of the MatesLab hackerspace based in Argentina and co-founder of the Independent Fund for Women in Tech. Additionally, I give specialized hands-on intensive trainings on network traffic analysis in various conferences around the world, where we have the opportunity to teach students, distilling the knowledge and experience of analyzing more than 18,000 hours of network traffic in the last few years.
+
 # Publications
 
 ## Peer-reviewed Conferences and Journals
@@ -12,6 +19,7 @@
 
 # Advising
 
+- Master Thesis Supervisor Specialist, 2022-2023, A Network Dataset of Normal, Malware, Attack and Background Traffic on a Real Network. Štěpán Bendl. FEE, CTU in Prague, Czech Republic 
 - Master Thesis Supervisor Specialist, 2019-2020, [The first comprehensive report on the state of the security of mobile phones of civil society. Jakub Čech](https://dspace.cvut.cz/handle/10467/87847). FEE, CTU in Prague, Czech Republic 
 
 # Teaching
