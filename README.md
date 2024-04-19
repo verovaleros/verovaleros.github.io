@@ -14,13 +14,15 @@ Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet
 
 # Teaching
 
+- Fall 2024, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2023, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2022, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2021, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 - Fall 2020, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
 
 # Trainings
-
+- 2024 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
+- 2024 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
 - 2023 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Defence in Depth 2023 Edition
 - 2023 BlackHat Asia, trainer, Advanced Malware Traffic Analysis: Own Your Protection. 2023 Edition
 - 2022 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition
@@ -45,7 +47,19 @@ Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet
 
 # Contributions
 
-- [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2023, AIC, FEL, CTU in Prague, Czech Republic 
+- [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2023, AIC, FEL, CTU in Prague, Czech Republic
+- [Slips](https://github.com/stratosphereips/StratosphereLinuxIPS/pulls?q=is%3Apr+verovaleros+), supporter, 2018-2024, AIC, FEL, CTU in Prague, Czech Republic
+
+# Awards & Scholarships
+
+- Outstanding Teaching Assistant Award, Winter Semester 2023/2024, AI Center, FEE, Czech Technical University in Prague, Czech Republic
+- Career Trajectory Award 2021, Ekoparty Security Conference, Argentina
+- Information Security Undergraduate Scholarship 2011, (ISC)² Foundation, United States
+- Full University Scholarship 2010-2013, FASTA University, Argentina
+- Student scholarship 2010-2011, Chubut Province's Department of Scholarships and Compensation Policies, Argentina
+- Partial University Scholarship 2007-2009, FASTA University, Argentina
+- Special Mention 2002, Instituto Balseiro, Argentina
+- Best Technological Project Idea 1999, Ministry of Education of Chubut Province, Argentina
 
 # Initiatives
 
@@ -55,8 +69,9 @@ Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet
 # Review Boards
 
 - BlackHat Trainings Review Board, 2022-Ongoing
-- BlackHat Briefings EU Review Board, 2018
+- Workshop on Attackers and Cyber-Crime Operations Program Committee, IEEE European Symposium on Security and Privacy, 2021-Ongoing
 - Ekoparty Security Conference Review Board, 2018-Ongoing
+- BlackHat Briefings EU Review Board, 2018
 
 # Publications
 
@@ -79,6 +94,7 @@ Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet
 
 ## Conferences
 
+- AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Asia Arsenal (Virtual), 2024
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Europe Arsenal (UK), 2023
 - Four Key Problems in OSINT for Cyber Threat Intelligence, ENISA CTI (Greece), 2023
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, DIMVA Arsenal (Germany), 2023 
