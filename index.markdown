@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # About me
 I'm a senior researcher and project leader at the Stratosphere Research Laboratory in the Czech Technical University in Prague, with more than 10 years of experience in cybersecurity. My research strongly focuses on helping people. Currently specializing in threat intelligence, malware traffic analysis, and data analysis. I have made my career in both industry and academia.
 
