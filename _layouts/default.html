@@ -24,14 +24,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         <ul class="downloads">
           <li><a href="{{ site.blog_url }}">View my<strong>BLOG</strong></a></li>
           <li><a href="{{ site.github.repo_url }}">View my<strong>GITHUB</strong></a></li>
