@@ -13,7 +13,7 @@ I have presented my research at international conferences such as Black Hat, Eko
 # Advising
 
 - Master Thesis Co-Supervisor, 2023-2024, Seguridad de un satélite en órbita: Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet. UBA, Argentina
-- Master Thesis Supervisor Specialist, 2022-2023, A Network Dataset of Normal, Malware, Attack and Background Traffic on a Real Network. Štěpán Bendl. FEE, CTU in Prague, Czech Republic 
+- Master Thesis Supervisor Specialist, 2022-2023, [A Network Dataset of Normal, Malware, Attack and Background Traffic on a Real Network](https://dspace.cvut.cz/handle/10467/109254). Štěpán Bendl. FEE, CTU in Prague, Czech Republic 
 - Master Thesis Supervisor Specialist, 2019-2020, [The first comprehensive report on the state of the security of mobile phones of civil society. Jakub Čech](https://dspace.cvut.cz/handle/10467/87847). FEE, CTU in Prague, Czech Republic 
 
 # Teaching
