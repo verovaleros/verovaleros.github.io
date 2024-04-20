@@ -4,11 +4,12 @@ title: About Me
 ---
 
 # About me
-I'm a senior researcher and project leader at the Stratosphere Research Laboratory in the Czech Technical University in Prague, with more than 10 years of experience in cybersecurity. My research strongly focuses on helping people. Currently specializing in threat intelligence, malware traffic analysis, and data analysis. I have made my career in both industry and academia.
 
-In my current position as a project leader, I help drive forward research and development projects, improve processes, and drive the community engagement of the groups I work with. As a senior researcher, I'm responsible for the research, development, and customer support at the Civilsphere project, dedicated to protecting civil society organizations and individuals at risk from targeted digital threats.
+I am a cybersecurity researcher born in Patagonia, Argentina, with over ten years of experience in the field. My research strongly focuses on helping people; I specialize in threat intelligence, malware traffic analysis, and data analysis. I have developed my career across both industry and academia.
 
-I have presented my research at international conferences such as Black Hat, EkoParty, Botconf, Virus Bulletin, Deepsec, and others. I'm the co-founder of the MatesLab hackerspace based in Argentina and co-founder of the Independent Fund for Women in Tech. Additionally, I give specialized hands-on intensive training on network traffic analysis at various conferences around the world, where we have the opportunity to teach students, distilling the knowledge and experience of analyzing more than 18,000 hours of network traffic in the last few years.
+Currently, I work as a senior researcher and project leader at the Stratosphere Research Laboratory at the Czech Technical University in Prague. In this role, I drive research and development projects, improve processes, and enhance community engagement with the groups I collaborate with. As a senior researcher, I oversee research, development, and customer support for the Civilsphere project, which aims to protect civil society organizations and individuals at risk from targeted digital threats.
+
+I am deeply passionate about cybercrime, honeypots, intelligence analysis, and enhancing team efficiency. I have presented my research at international conferences, including Black Hat, EkoParty, Botconf, Virus Bulletin, and Deepsec. I am the co-founder of MatesLab hackerspace in Argentina and the Independent Fund for Women in Tech. Furthermore, I offer specialized, hands-on, intensive training on network traffic analysis at global conferences, leveraging my experience from analyzing over 18,000 hours of network traffic in recent years. In 2022, I began pursuing my second master's degree in Intelligence and Security Studies at Liverpool John Moores University. I serve as a review board on industry conferences such as BlackHat and Ekoparty and as a program committee of academic events.
 
 # Advising
 
