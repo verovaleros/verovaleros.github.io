@@ -143,6 +143,16 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 - Uncovering your trails Privacy issues of bluetooth devices, Ekoparty (Argentina), 2013
 - Análisis de anomalías en protocolos web para la detección de ataques, FASTA University, 2012
 
+## Datasets
+
+- Valeros, V., & Shirokova, A. (2024). CTU-Hacktivist-RU_EN-1: A Dataset with Russian English Translation, Zenodo, doi: [10.5281/zenodo.10782757](https://doi.org/10.5281/zenodo.10782757)
+- Bendl, Š., Valeros, V., & Garcia, S. (2023). CTU-SME-11: a labeled dataset with real benign and malicious network traffic mimicking a small medium-size enterprise environment, Zenodo, doi: [10.5281/zenodo.7958259](https://doi.org/10.5281/zenodo.7958259)
+- García, Sebastián; Čejka, Tomáš; Valeros, Veronica (2021), “Dataset of DNS over HTTPS (DoH) Internet Servers”, Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
+- Valeros, Veronica; Garcia, Sebastian (2021), “Dataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru”, Mendeley Data, V2, doi: [10.17632/48gyrs6y37.2](https://doi.org/10.17632/48gyrs6y37.2)
+- Valeros, Veronica (2021), “Hornet 40: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
+- Valeros, Veronica (2021), “Hornet 15: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
+- Valeros, Veronica (2021), “Hornet 7: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
+
 # Community Metrics
 
 <p align="left">
