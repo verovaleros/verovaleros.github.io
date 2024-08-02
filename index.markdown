@@ -82,11 +82,15 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 ## Peer-reviewed Conferences and Journals
 
+- [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](https://arxiv.org/pdf/2404.01940). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Valeros, V., Širokova, A., Catania, C., & Garcia, S. (2024). 
+- [LLM in the Shell: Generative Honeypots](https://arxiv.org/pdf/2309.00155). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2024). 
 - [Hornet 40: network dataset of geographically placed honeypots](https://www.sciencedirect.com/science/article/pii/S2352340922000075).  Data in Brief, 107795. Valeros, V., & Garcia, S. (2022). 
 - [Growth and commoditization of remote access trojans](https://ieeexplore.ieee.org/abstract/document/9229824).  In 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) (pp. 454-462). IEEE. Valeros, V., & Garcia, S. (2020, September). 
 - [Machete: Dissecting the Operations of a Cyber Espionage Group in Latin America](https://ieeexplore.ieee.org/abstract/document/8802467).  In 2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) (pp. 464-473). IEEE. Valeros, V., Rigaki, M., & Garcia, S. (2019, June). 
 - [An overview of the WCMS brute-forcing malware landscape](https://journal.cecyf.fr/ojs/index.php/cybin/article/view/18). The Journal on Cybercrime & Digital Investigations, 3(1), 20-29. Shirokova, A., & Valeros, V. (2017). 
-- [Make it count: an analysis of a brute-forcing botnet](https://journal.cecyf.fr/ojs/index.php/cybin/article/view/5).  The Journal on Cybercrime & Digital Investigations, 1(1). Valeros, V. (2016). 
+- [Make it count: an analysis of a brute-forcing botnet](https://journal.cecyf.fr/ojs/index.php/cybin/article/view/5).  The Journal on Cybercrime & Digital Investigations, 1(1). Valeros, V. (2016).
+- [Exploit kit website detection using http proxy logs](https://dl.acm.org/doi/pdf/10.1145/3033288.3033354). In Proceedings of the Fifth International Conference on Network, Communication and Computing (pp. 120-125). Nikolaev, I., Grill, M., & Valeros, V. (2016). 
+- [Detecting DGA malware using NetFlow](https://ieeexplore.ieee.org/iel7/7121095/7140257/07140486.pdf). In 2015 IFIP/IEEE International Symposium on Integrated Network Management (IM) (pp. 1304-1309). IEEE. Grill, M., Nikolaev, I., Valeros, V., & Rehak, M. (2015). 
 - [Educarse y divertirse, la Universidad y el Hackspace](http://sedici.unlp.edu.ar/handle/10915/18436). V Congreso de Tecnología en Educación y Educación en Tecnología. V. Valeros, S. Garcia (2010).
 - [De la universidad al hacklab, respetar y divertirse en la educación](https://www.researchgate.net/profile/Sebastian-Garcia-19/publication/256089694_World_Engineering_Congress_2010/). World Engineering Congress. V. Valeros, S. Garcia (2010).
 
