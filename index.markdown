@@ -103,6 +103,7 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 ## Conferences
 
+- Innovating Cybersecurity Education through Hands-On Learning, Democratized Knowledge, and Safe Experimentation, 1st Teaching Europe Conference (Virtual), 2024
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Asia Arsenal (Virtual), 2024
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Europe Arsenal (UK), 2023
 - Four Key Problems in OSINT for Cyber Threat Intelligence, ENISA CTI (Greece), 2023
@@ -145,6 +146,7 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 ## Datasets
 
+- Valeros, V., & Sebastian, G. (2024). CTU Hornet 65 Niner: A Network Dataset of Geographically Distributed Low-Interaction Honeypots (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/nt4p9zsv5k.1
 - Valeros, V., & Shirokova, A. (2024). CTU-Hacktivist-RU_EN-1: A Dataset with Russian English Translation, Zenodo, doi: [10.5281/zenodo.10782757](https://doi.org/10.5281/zenodo.10782757)
 - Bendl, Š., Valeros, V., & Garcia, S. (2023). CTU-SME-11: a labeled dataset with real benign and malicious network traffic mimicking a small medium-size enterprise environment, Zenodo, doi: [10.5281/zenodo.7958259](https://doi.org/10.5281/zenodo.7958259)
 - García, Sebastián; Čejka, Tomáš; Valeros, Veronica (2021), “Dataset of DNS over HTTPS (DoH) Internet Servers”, Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
