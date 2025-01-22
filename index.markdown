@@ -73,6 +73,7 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 # Review Boards
 
+- BlackHat Arsenal Review Board, 2024-Ongoing
 - BlackHat Trainings Review Board, 2022-Ongoing
 - Workshop on Attackers and Cyber-Crime Operations Program Committee, IEEE European Symposium on Security and Privacy, 2021-Ongoing
 - Ekoparty Security Conference Review Board, 2018-Ongoing
@@ -82,6 +83,7 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 ## Peer-reviewed Conferences and Journals
 
+- [CTU Hornet 65 Niner: A network dataset of geographically distributed low-interaction honeypots](https://www.sciencedirect.com/science/article/pii/S235234092401223X). Data in Brief, 111261. Valeros, V., & Garcia, S. (2024). 
 - [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](https://arxiv.org/pdf/2404.01940). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Valeros, V., Širokova, A., Catania, C., & Garcia, S. (2024). 
 - [LLM in the Shell: Generative Honeypots](https://arxiv.org/pdf/2309.00155). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2024). 
 - [Hornet 40: network dataset of geographically placed honeypots](https://www.sciencedirect.com/science/article/pii/S2352340922000075).  Data in Brief, 107795. Valeros, V., & Garcia, S. (2022). 
