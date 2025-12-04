@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    {% feed_meta %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -28,6 +29,7 @@
           <li><a href="{{ site.blog_url }}">View my<strong>BLOG</strong></a></li>
           <li><a href="{{ site.github.repo_url }}">View my<strong>GITHUB</strong></a></li>
           <li><a href="{{ site.github.linkedin_url }}">View my<strong>LINKEDIN</strong></a></li>
+          <li><a href="{{ "/feed.xml" | absolute_url }}">Get my<strong>RSS</strong></a></li>
         </ul>
       </header>
       <section>

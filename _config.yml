@@ -3,6 +3,7 @@ email: vero.valeros@gmail.com
 description: I'm verovaleros, a hacker, researcher, and artist. I work at the Stratosphere Cybersecurity Research Laboratory at the AIC, FEL, Czech Technical University in Prague.
 logo: assets/veronica-valeros.jpg
 theme: jekyll-theme-minimal
+url: https://verovaleros.github.io
 show_downloads: true
 blog_url: blog
 github:
