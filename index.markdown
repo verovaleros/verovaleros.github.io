@@ -5,11 +5,10 @@ title: About Me
 
 # About me
 
-I am a cybersecurity researcher born in Patagonia, Argentina, with over ten years of experience in the field. My research strongly focuses on helping people; I specialize in threat intelligence, malware traffic analysis, and data analysis. I have developed my career across both industry and academia.
+I am a cybersecurity researcher from Patagonia, Argentina, with over a decade of experience in threat intelligence, malware traffic analysis, and data-driven security. I work as a senior researcher and co-director of the Stratosphere Research Laboratory at the Czech Technical University in Prague, where I also teach the Introduction to Security course, both in a physical class and as a large-scale MOOC.
+I have presented at international conferences, including Black Hat, EkoParty, Botconf, and Virus Bulletin, and I serve on review boards for Black Hat and academic events. I am the co-founder of MatesLab hackerspace in Argentina and the Independent Fund for Women in Tech.
+I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master’s degree in Intelligence and Security Studies at Liverpool John Moores University.
 
-Currently, I work as a senior researcher and project leader at the Stratosphere Research Laboratory at the Czech Technical University in Prague. In this role, I drive research and development projects, improve processes, and enhance community engagement with the groups I collaborate with. As a senior researcher, I oversee research, development, and customer support for the Civilsphere project, which aims to protect civil society organizations and individuals at risk from targeted digital threats.
-
-I am deeply passionate about cybercrime, honeypots, intelligence analysis, and enhancing team efficiency. I have presented my research at international conferences, including Black Hat, EkoParty, Botconf, Virus Bulletin, and Deepsec. I am the co-founder of MatesLab hackerspace in Argentina and the Independent Fund for Women in Tech. Furthermore, I offer specialized, hands-on, intensive training on network traffic analysis at global conferences, leveraging my experience from analyzing over 18,000 hours of network traffic in recent years. In 2022, I began pursuing my second master's degree in Intelligence and Security Studies at Liverpool John Moores University. I serve as a review board on industry conferences such as BlackHat and Ekoparty and as a program committee of academic events.
 
 # Advising
 
@@ -19,13 +18,16 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 # Teaching
 
-- Fall 2024, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
-- Fall 2023, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
-- Fall 2022, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
-- Fall 2021, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
-- Fall 2020, Teaching Assistant, Introduction to Computer Security (in English), Open Informatics Master Program, CTU in Prague
+- Fall 2025, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+- Fall 2024, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+- Fall 2023, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+- Fall 2022, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+- Fall 2021, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+- Fall 2020, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
 
 # Trainings
+- 2025 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
+- 2025 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
 - 2024 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
 - 2024 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
 - 2023 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Defence in Depth 2023 Edition
@@ -75,14 +77,15 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 - BlackHat Arsenal Review Board, 2024-Ongoing
 - BlackHat Trainings Review Board, 2022-Ongoing
-- Workshop on Attackers and Cyber-Crime Operations Program Committee, IEEE European Symposium on Security and Privacy, 2021-Ongoing
-- Ekoparty Security Conference Review Board, 2018-Ongoing
+- Workshop on Attackers and Cyber-Crime Operations Program Committee, IEEE European Symposium on Security and Privacy, 2021-2025
+- Ekoparty Security Conference Review Board, 2018-2025
 - BlackHat Briefings EU Review Board, 2018
 
 # Publications
 
 ## Peer-reviewed Conferences and Journals
 
+- [VelLMes: A high-interaction AI-based deception framework](https://ieeexplore.ieee.org/abstract/document/11129519). In 4th Workshop on Active Defense and Deception (AD&D) co-located with the 10th IEEE European Symposium on Security and Privacy (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2025). 
 - [CTU Hornet 65 Niner: A network dataset of geographically distributed low-interaction honeypots](https://www.sciencedirect.com/science/article/pii/S235234092401223X). Data in Brief, 111261. Valeros, V., & Garcia, S. (2024). 
 - [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](https://arxiv.org/pdf/2404.01940). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Valeros, V., Širokova, A., Catania, C., & Garcia, S. (2024). 
 - [LLM in the Shell: Generative Honeypots](https://arxiv.org/pdf/2309.00155). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2024). 
@@ -105,6 +108,7 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 
 ## Conferences
 
+- ARACNE: A Multi-Agent LLM Framework for Comprehensive Autonomous Linux Shell Security Testing, Ekoparty (Argentina), 2025
 - Innovating Cybersecurity Education through Hands-On Learning, Democratized Knowledge, and Safe Experimentation, 1st Teaching Europe Conference (Virtual), 2024
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Asia Arsenal (Virtual), 2024
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool, BlackHat Europe Arsenal (UK), 2023
@@ -156,9 +160,3 @@ I am deeply passionate about cybercrime, honeypots, intelligence analysis, and e
 - Valeros, Veronica (2021), “Hornet 40: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
 - Valeros, Veronica (2021), “Hornet 15: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
 - Valeros, Veronica (2021), “Hornet 7: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
-
-# Community Metrics
-
-<p align="left">
-     <img src="./github-metrics.svg" width="800" />
-</p>
