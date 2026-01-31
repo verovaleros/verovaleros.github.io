@@ -359,8 +359,8 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Valeros, V., & Sebastian, G. (2024). CTU Hornet 65 Niner: A Network Dataset of Geographically Distributed Low-Interaction Honeypots (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/nt4p9zsv5k.1
 - Valeros, V., & Shirokova, A. (2024). CTU-Hacktivist-RU_EN-1: A Dataset with Russian English Translation, Zenodo, doi: [10.5281/zenodo.10782757](https://doi.org/10.5281/zenodo.10782757)
 - Bendl, ≈†., Valeros, V., & Garcia, S. (2023). CTU-SME-11: a labeled dataset with real benign and malicious network traffic mimicking a small medium-size enterprise environment, Zenodo, doi: [10.5281/zenodo.7958259](https://doi.org/10.5281/zenodo.7958259)
-- Garc√≠a, Sebasti√°n; ƒåejka, Tom√°≈°; Valeros, Veronica (2021), --úDataset of DNS over HTTPS (DoH) Internet Servers--ù, Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
-- Valeros, Veronica; Garcia, Sebastian (2021), --úDataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru--ù, Mendeley Data, V2, doi: [10.17632/48gyrs6y37.2](https://doi.org/10.17632/48gyrs6y37.2)
-- Valeros, Veronica (2021), --úHornet 40: Network Dataset of Geographically Placed Honeypots--ù, Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
-- Valeros, Veronica (2021), --úHornet 15: Network Dataset of Geographically Placed Honeypots--ù, Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
-- Valeros, Veronica (2021), --úHornet 7: Network Dataset of Geographically Placed Honeypots--ù, Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
+- Garc√≠a, Sebasti√°n; ƒåejka, Tom√°≈°; Valeros, Veronica (2021), "Dataset of DNS over HTTPS (DoH) Internet Servers", Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
+- Valeros, Veronica; Garcia, Sebastian (2021), "Dataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru", Mendeley Data, V2, doi: [10.17632/48gyrs6y37.2](https://doi.org/10.17632/48gyrs6y37.2)
+- Valeros, Veronica (2021), "Hornet 40: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
+- Valeros, Veronica (2021), "Hornet 15: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
+- Valeros, Veronica (2021), "Hornet 7: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
