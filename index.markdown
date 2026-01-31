@@ -7,7 +7,7 @@ title: About Me
 
 I am a cybersecurity researcher from Patagonia, Argentina, with over a decade of experience in threat intelligence, malware traffic analysis, and data-driven security. I work as a senior researcher and co-director of the Stratosphere Research Laboratory at the Czech Technical University in Prague, where I also teach the Introduction to Security course, both in a physical class and as a large-scale MOOC.
 I have presented at international conferences, including Black Hat, EkoParty, Botconf, and Virus Bulletin, and I serve on review boards for Black Hat and academic events. I am the co-founder of MatesLab hackerspace in Argentina and the Independent Fund for Women in Tech.
-I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master--ôs degree in Intelligence and Security Studies at Liverpool John Moores University.
+I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master's degree in Intelligence and Security Studies at Liverpool John Moores University.
 
 
 # Advising
@@ -321,7 +321,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Un an√°lisis global de la privacidad en tr√°fico celular y c√≥mo est√°s en riesgo de vigilancia, Ekoparty (Argentina), 2022
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, BSides BUD (Hungary), 2018
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, 34C3 (Germany), 2017
-- Knock Knock--¶ Who--ôs there? admin admin, Get In! An Overview of the CMS Brute-Forcing Malware Landscape, Botconf (France), 2017
+- Knock Knock... Who's there? admin admin, Get In! An Overview of the CMS Brute-Forcing Malware Landscape, Botconf (France), 2017
 - Am√©rica Latina, blanco de un grupo avanzado de cyber espionaje, TandilSec (Argentina), 2017
 - Panel: Mujeres en Tecnolog√≠a y Ciencia, UNICEN (Argentina), 2017
 - Five days in the life of a CMS brute forcing malware, BSides Vienna (Austria), 2017
@@ -342,7 +342,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Piecing Together Malicious Behavior in Encrypted Traffic, Cisco Blogs, 2016
 - Cognitive Threat Analytics: Turn Your Proxy Into Security Device, Cisco Blogs, 2016
 - Threat Hunting En Masse: Challenges And Discoveries, Security Automation World (France), 2016
-- Adware landscape: what you didn--ôt want to hear, University of Luxembourg (Luxembourg), 2016
+- Adware landscape: what you didn't want to hear, University of Luxembourg (Luxembourg), 2016
 - The Dark Side of Adware: Malware and Data Exfiltration, BSides Tel Aviv (Israel), 2016
 - Adware's new upsell: malware, BSides Calgary (Canada), 2016
 - DNSChanger Outbreak Linked to Adware Install Base, Cisco Blogs, 2016
