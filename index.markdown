@@ -10,7 +10,8 @@ I have presented at international conferences, including Black Hat, EkoParty, Bo
 I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master's degree in Intelligence and Security Studies at Liverpool John Moores University.
 
 
-# Advising
+<details class="cv-section" open>
+<summary>Advising</summary>
 
 <ul class="cv-list">
   <li class="cv-item">
@@ -35,8 +36,10 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
     </div>
   </li>
 </ul>
+</details>
 
-# Teaching
+<details class="cv-section" open>
+<summary>Teaching</summary>
 
 <ul class="cv-list">
   <li class="cv-item">
@@ -82,8 +85,10 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
     </div>
   </li>
 </ul>
+</details>
 
-# Trainings
+<details class="cv-section">
+<summary>Trainings</summary>
 <ul class="cv-list">
   <li class="cv-item">
     <div class="cv-date">2025</div>
@@ -254,14 +259,18 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
     </div>
   </li>
 </ul>
+</details>
 
-
-# Contributions
+<details class="cv-section">
+<summary>Contributions</summary>
 
 - [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2023, AIC, FEL, CTU in Prague, Czech Republic
 - [Slips](https://github.com/stratosphereips/StratosphereLinuxIPS/pulls?q=is%3Apr+verovaleros+), supporter, 2018-2024, AIC, FEL, CTU in Prague, Czech Republic
 
-# Awards & Scholarships
+</details>
+
+<details class="cv-section">
+<summary>Awards &amp; Scholarships</summary>
 
 - Outstanding Teaching Assistant Award, Winter Semester 2023/2024, AI Center, FEE, Czech Technical University in Prague, Czech Republic
 - Career Trajectory Award 2021, Ekoparty Security Conference, Argentina
@@ -271,13 +280,18 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Partial University Scholarship 2007-2009, FASTA University, Argentina
 - Special Mention 2002, Instituto Balseiro, Argentina
 - Best Technological Project Idea 1999, Ministry of Education of Chubut Province, Argentina
+</details>
 
-# Initiatives
+<details class="cv-section">
+<summary>Initiatives</summary>
 
 - Co-founder of the Independent Fund for Women in Tech, a global initiative to foster the participation of women in cybersecurity conferences, in 2018.
 - Co-founder of the MatesLab hackerspace in Mar del Plata, Argentina, in 2009.
 
-# Review Boards
+</details>
+
+<details class="cv-section">
+<summary>Review Boards</summary>
 
 - BlackHat Arsenal Review Board, 2024-Ongoing
 - BlackHat Trainings Review Board, 2022-Ongoing
@@ -285,7 +299,10 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Ekoparty Security Conference Review Board, 2018-2025
 - BlackHat Briefings EU Review Board, 2018
 
-# Publications
+</details>
+
+<details class="cv-section">
+<summary>Publications</summary>
 
 ## Peer-reviewed Conferences and Journals
 
@@ -364,3 +381,4 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Valeros, Veronica (2021), "Hornet 40: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
 - Valeros, Veronica (2021), "Hornet 15: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
 - Valeros, Veronica (2021), "Hornet 7: Network Dataset of Geographically Placed Honeypots", Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
+</details>
