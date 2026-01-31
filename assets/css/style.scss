@@ -102,7 +102,7 @@
 .downloads {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.5rem;
+  gap: 0.6rem;
   margin: 1rem 0;
   padding: 0;
 }
@@ -110,12 +110,36 @@
 .downloads li {
   list-style: none;
   margin: 0;
+  width: auto;
+  float: none;
 }
 
 .downloads li a {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: #f7f7f7;
+  border: 1px solid #dcdcdc;
+  border-left: 1px solid #dcdcdc;
+  border-right: 1px solid #dcdcdc;
+  border-radius: 8px;
+  box-shadow: none;
   text-align: center;
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.downloads li a strong {
+  display: block;
+  letter-spacing: 0.02em;
+}
+
+.downloads li:first-child a,
+.downloads li:last-child a {
+  border-radius: 8px;
 }
 
 @media (max-width: 420px) {
