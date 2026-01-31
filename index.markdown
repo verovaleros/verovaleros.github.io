@@ -10,7 +10,7 @@ I have presented at international conferences, including Black Hat, EkoParty, Bo
 I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master's degree in Intelligence and Security Studies at Liverpool John Moores University.
 
 
-<details class="cv-section" open>
+<details class="cv-section" markdown="1">
 <summary>Advising</summary>
 
 <ul class="cv-list">
@@ -38,7 +38,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 </ul>
 </details>
 
-<details class="cv-section" open>
+<details class="cv-section" markdown="1">
 <summary>Teaching</summary>
 
 <ul class="cv-list">
@@ -87,7 +87,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 </ul>
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Trainings</summary>
 <ul class="cv-list">
   <li class="cv-item">
@@ -261,7 +261,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 </ul>
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Contributions</summary>
 
 - [Civilsphere AI VPN](https://github.com/stratosphereips/AIVPN), Core researcher and developer, 2021-2023, AIC, FEL, CTU in Prague, Czech Republic
@@ -269,7 +269,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Awards &amp; Scholarships</summary>
 
 - Outstanding Teaching Assistant Award, Winter Semester 2023/2024, AI Center, FEE, Czech Technical University in Prague, Czech Republic
@@ -282,7 +282,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Best Technological Project Idea 1999, Ministry of Education of Chubut Province, Argentina
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Initiatives</summary>
 
 - Co-founder of the Independent Fund for Women in Tech, a global initiative to foster the participation of women in cybersecurity conferences, in 2018.
@@ -290,7 +290,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Review Boards</summary>
 
 - BlackHat Arsenal Review Board, 2024-Ongoing
@@ -301,7 +301,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 
 </details>
 
-<details class="cv-section">
+<details class="cv-section" markdown="1">
 <summary>Publications</summary>
 
 ## Peer-reviewed Conferences and Journals
