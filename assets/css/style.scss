@@ -97,3 +97,29 @@
     font-size: 1.05rem;
   }
 }
+
+/* Align the header buttons (Blog/GitHub/LinkedIn/RSS) into a tidy grid */
+.downloads {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.downloads li {
+  list-style: none;
+  margin: 0;
+}
+
+.downloads li a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+@media (max-width: 420px) {
+  .downloads {
+    grid-template-columns: 1fr;
+  }
+}
