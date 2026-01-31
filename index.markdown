@@ -7,49 +7,253 @@ title: About Me
 
 I am a cybersecurity researcher from Patagonia, Argentina, with over a decade of experience in threat intelligence, malware traffic analysis, and data-driven security. I work as a senior researcher and co-director of the Stratosphere Research Laboratory at the Czech Technical University in Prague, where I also teach the Introduction to Security course, both in a physical class and as a large-scale MOOC.
 I have presented at international conferences, including Black Hat, EkoParty, Botconf, and Virus Bulletin, and I serve on review boards for Black Hat and academic events. I am the co-founder of MatesLab hackerspace in Argentina and the Independent Fund for Women in Tech.
-I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master’s degree in Intelligence and Security Studies at Liverpool John Moores University.
+I deliver intensive, hands-on training in network traffic and malware analysis, drawing on over 18,000 hours of real-world traffic investigation experience. Since 2025, I have been pursuing a PhD in Computer Science and AI at the Czech Technical University in Prague while completing a master--�s degree in Intelligence and Security Studies at Liverpool John Moores University.
 
 
 # Advising
 
-- Master Thesis Co-Supervisor, 2023-2024, Seguridad de un satélite en órbita: Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet. UBA, Argentina
-- Master Thesis Supervisor Specialist, 2022-2023, [A Network Dataset of Normal, Malware, Attack and Background Traffic on a Real Network](https://dspace.cvut.cz/handle/10467/109254). Štěpán Bendl. FEE, CTU in Prague, Czech Republic 
-- Master Thesis Supervisor Specialist, 2019-2020, [The first comprehensive report on the state of the security of mobile phones of civil society. Jakub Čech](https://dspace.cvut.cz/handle/10467/87847). FEE, CTU in Prague, Czech Republic 
+<ul class="cv-list">
+  <li class="cv-item">
+    <div class="cv-date">2023-2024</div>
+    <div class="cv-main">
+      <div class="cv-title">Master Thesis Co-Supervisor</div>
+      <div class="cv-meta">Seguridad de un satélite en órbita: Detección de compromiso mediante técnicas de integridad. Juan Ignacio Bousquet. UBA, Argentina</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2022-2023</div>
+    <div class="cv-main">
+      <div class="cv-title">Master Thesis Supervisor Specialist</div>
+      <div class="cv-meta"><a href="https://dspace.cvut.cz/handle/10467/109254">A Network Dataset of Normal, Malware, Attack and Background Traffic on a Real Network</a>. Štěpán Bendl. FEE, CTU in Prague, Czech Republic</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019-2020</div>
+    <div class="cv-main">
+      <div class="cv-title">Master Thesis Supervisor Specialist</div>
+      <div class="cv-meta"><a href="https://dspace.cvut.cz/handle/10467/87847">The first comprehensive report on the state of the security of mobile phones of civil society. Jakub Čech</a>. FEE, CTU in Prague, Czech Republic</div>
+    </div>
+  </li>
+</ul>
 
 # Teaching
 
-- Fall 2025, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
-- Fall 2024, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
-- Fall 2023, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
-- Fall 2022, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
-- Fall 2021, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
-- Fall 2020, Teaching Assistant, [Introduction to Computer Security (in English)](https://cybersecurity.bsy.fel.cvut.cz/), Open Informatics Master Program, CTU in Prague
+<ul class="cv-list">
+  <li class="cv-item">
+    <div class="cv-date">Fall 2025</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">Fall 2024</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">Fall 2023</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">Fall 2022</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">Fall 2021</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">Fall 2020</div>
+    <div class="cv-main">
+      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
+      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
+    </div>
+  </li>
+</ul>
 
 # Trainings
-- 2025 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
-- 2025 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
-- 2024 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
-- 2024 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition
-- 2023 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Defence in Depth 2023 Edition
-- 2023 BlackHat Asia, trainer, Advanced Malware Traffic Analysis: Own Your Protection. 2023 Edition
-- 2022 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition
-- 2022 BlackHat USA, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition
-- 2021 BlackHat Europe, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
-- 2021 BlackHat USA, trainer, Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition
-- 2021 NorthSec, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
-- 2020 BlackHat Europe, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
-- 2020 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
-- 2020 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition
-- 2019 Ekoparty, trainer, Getting Your Hands Dirty: Understanding & Hunting Down Malware Attacks in Your Network
-- 2019 BlackHat USA, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
-- 2019 OWASP Czech Republic, trainer, Getting Your Hands Dirty: IoT Botnet Analysis
-- 2019 Internet Freedom Festival, trainer, Emergency VPN: Analyzing mobile network traffic to detect digital threats
-- 2019 BlackHat Asia, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
-- 2019 Troopers, trainer, Machine Learning for Network Security and Malware Detection
-- 2018 BlackHat Europe, trainer, Advanced Malware Traffic Analysis - Adversarial Thinking
-- 2018 HackLu, trainer, Getting Your Hands Dirty: How to Analyze the Behavior of Malware Traffic and Web Connections
-- 2018 Ekoparty, trainer, Advanced Malware Attacks In Your Network
-- 2016 Botconf, trainer, Getting your hands dirty: How to Analyze the Behavior of Malware Traffic and Web Connections
+<ul class="cv-list">
+  <li class="cv-item">
+    <div class="cv-date">2025</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2025</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Asia</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2024</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2024</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Asia</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2023</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Defence in Depth 2023 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2023</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Asia</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Own Your Protection. 2023 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2022</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Europe</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2022</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2021</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Europe</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2021</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2021</div>
+    <div class="cv-main">
+      <div class="cv-title">NorthSec</div>
+      <div class="cv-meta">Trainer --- Getting Your Hands Dirty: Understanding &amp; Hunting Down Malware Attacks in Your Network</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2020</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Europe</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2020</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2020</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Asia</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">Ekoparty</div>
+      <div class="cv-meta">Trainer --- Getting Your Hands Dirty: Understanding &amp; Hunting Down Malware Attacks in Your Network</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat USA</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">OWASP Czech Republic</div>
+      <div class="cv-meta">Trainer --- Getting Your Hands Dirty: IoT Botnet Analysis</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">Internet Freedom Festival</div>
+      <div class="cv-meta">Trainer --- Emergency VPN: Analyzing mobile network traffic to detect digital threats</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Asia</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2019</div>
+    <div class="cv-main">
+      <div class="cv-title">Troopers</div>
+      <div class="cv-meta">Trainer --- Machine Learning for Network Security and Malware Detection</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2018</div>
+    <div class="cv-main">
+      <div class="cv-title">BlackHat Europe</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2018</div>
+    <div class="cv-main">
+      <div class="cv-title">HackLu</div>
+      <div class="cv-meta">Trainer --- Getting Your Hands Dirty: How to Analyze the Behavior of Malware Traffic and Web Connections</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2018</div>
+    <div class="cv-main">
+      <div class="cv-title">Ekoparty</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Attacks In Your Network</div>
+    </div>
+  </li>
+  <li class="cv-item">
+    <div class="cv-date">2016</div>
+    <div class="cv-main">
+      <div class="cv-title">Botconf</div>
+      <div class="cv-meta">Trainer --- Getting your hands dirty: How to Analyze the Behavior of Malware Traffic and Web Connections</div>
+    </div>
+  </li>
+</ul>
 
 
 # Contributions
@@ -117,7 +321,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Un análisis global de la privacidad en tráfico celular y cómo estás en riesgo de vigilancia, Ekoparty (Argentina), 2022
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, BSides BUD (Hungary), 2018
 - Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection, 34C3 (Germany), 2017
-- Knock Knock… Who’s there? admin admin, Get In! An Overview of the CMS Brute-Forcing Malware Landscape, Botconf (France), 2017
+- Knock Knock--� Who--�s there? admin admin, Get In! An Overview of the CMS Brute-Forcing Malware Landscape, Botconf (France), 2017
 - América Latina, blanco de un grupo avanzado de cyber espionaje, TandilSec (Argentina), 2017
 - Panel: Mujeres en Tecnología y Ciencia, UNICEN (Argentina), 2017
 - Five days in the life of a CMS brute forcing malware, BSides Vienna (Austria), 2017
@@ -138,7 +342,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Piecing Together Malicious Behavior in Encrypted Traffic, Cisco Blogs, 2016
 - Cognitive Threat Analytics: Turn Your Proxy Into Security Device, Cisco Blogs, 2016
 - Threat Hunting En Masse: Challenges And Discoveries, Security Automation World (France), 2016
-- Adware landscape: what you didn’t want to hear, University of Luxembourg (Luxembourg), 2016
+- Adware landscape: what you didn--�t want to hear, University of Luxembourg (Luxembourg), 2016
 - The Dark Side of Adware: Malware and Data Exfiltration, BSides Tel Aviv (Israel), 2016
 - Adware's new upsell: malware, BSides Calgary (Canada), 2016
 - DNSChanger Outbreak Linked to Adware Install Base, Cisco Blogs, 2016
@@ -155,8 +359,8 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 - Valeros, V., & Sebastian, G. (2024). CTU Hornet 65 Niner: A Network Dataset of Geographically Distributed Low-Interaction Honeypots (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/nt4p9zsv5k.1
 - Valeros, V., & Shirokova, A. (2024). CTU-Hacktivist-RU_EN-1: A Dataset with Russian English Translation, Zenodo, doi: [10.5281/zenodo.10782757](https://doi.org/10.5281/zenodo.10782757)
 - Bendl, Š., Valeros, V., & Garcia, S. (2023). CTU-SME-11: a labeled dataset with real benign and malicious network traffic mimicking a small medium-size enterprise environment, Zenodo, doi: [10.5281/zenodo.7958259](https://doi.org/10.5281/zenodo.7958259)
-- García, Sebastián; Čejka, Tomáš; Valeros, Veronica (2021), “Dataset of DNS over HTTPS (DoH) Internet Servers”, Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
-- Valeros, Veronica; Garcia, Sebastian (2021), “Dataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru”, Mendeley Data, V2, doi: [10.17632/48gyrs6y37.2](https://doi.org/10.17632/48gyrs6y37.2)
-- Valeros, Veronica (2021), “Hornet 40: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
-- Valeros, Veronica (2021), “Hornet 15: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
-- Valeros, Veronica (2021), “Hornet 7: Network Dataset of Geographically Placed Honeypots”, Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)
+- García, Sebastián; Čejka, Tomáš; Valeros, Veronica (2021), --�Dataset of DNS over HTTPS (DoH) Internet Servers--�, Mendeley Data, V2, doi: [10.17632/ny4m53g6bw.2](https://doi.org/10.17632/ny4m53g6bw.2)
+- Valeros, Veronica; Garcia, Sebastian (2021), --�Dataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru--�, Mendeley Data, V2, doi: [10.17632/48gyrs6y37.2](https://doi.org/10.17632/48gyrs6y37.2)
+- Valeros, Veronica (2021), --�Hornet 40: Network Dataset of Geographically Placed Honeypots--�, Mendeley Data, V3, doi: [10.17632/tcfzkbpw46.3](https://doi.org/10.17632/tcfzkbpw46.3)
+- Valeros, Veronica (2021), --�Hornet 15: Network Dataset of Geographically Placed Honeypots--�, Mendeley Data, V2, doi: [10.17632/rry7bhc2f2.2](https://doi.org/10.17632/rry7bhc2f2.2)
+- Valeros, Veronica (2021), --�Hornet 7: Network Dataset of Geographically Placed Honeypots--�, Mendeley Data, V3, doi: [10.17632/w6yskg3ffy.3](https://doi.org/10.17632/w6yskg3ffy.3)

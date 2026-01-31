@@ -88,6 +88,59 @@
   font-size: 0.9rem;
 }
 
+/* CV-style lists for Advising/Teaching/Trainings */
+.cv-list {
+  list-style: none;
+  margin: 0.75rem 0 1.5rem;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.cv-item {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: 0.9rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.cv-date {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #5b5b5b;
+  white-space: nowrap;
+}
+
+.cv-main {
+  min-width: 0;
+}
+
+.cv-title {
+  margin: 0 0 0.25rem;
+  font-weight: 600;
+  color: #222222;
+}
+
+.cv-meta {
+  margin: 0;
+  font-size: 0.92rem;
+  color: #555555;
+}
+
+@media (max-width: 640px) {
+  .cv-item {
+    grid-template-columns: 1fr;
+  }
+
+  .cv-date {
+    margin-bottom: 0.35rem;
+  }
+}
+
 @media (max-width: 640px) {
   .post-card {
     padding: 0.9rem 1rem;
