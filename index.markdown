@@ -56,73 +56,24 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 <summary>Trainings</summary>
 <ul class="cv-list">
   <li class="cv-item">
-    <div class="cv-date">2025</div>
+    <div class="cv-date">2019-2025</div>
     <div class="cv-main">
       <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
     </div>
   </li>
   <li class="cv-item">
-    <div class="cv-date">2025</div>
+    <div class="cv-date">2019, 2020, 2023-2025</div>
     <div class="cv-main">
       <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
     </div>
   </li>
   <li class="cv-item">
-    <div class="cv-date">2024</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2024</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adaptive Defence 2024 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2023</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Defence in Depth 2023 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2023</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Own Your Protection. 2023 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2022</div>
+    <div class="cv-date">2018, 2020-2022</div>
     <div class="cv-main">
       <div class="cv-title">BlackHat Europe</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2022</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2021</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Europe</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2021</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis: Smarter Protection - 2021 Edition</div>
+      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
     </div>
   </li>
   <li class="cv-item">
@@ -133,38 +84,10 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
     </div>
   </li>
   <li class="cv-item">
-    <div class="cv-date">2020</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Europe</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2020</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2020</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking - 2020 Edition</div>
-    </div>
-  </li>
-  <li class="cv-item">
     <div class="cv-date">2019</div>
     <div class="cv-main">
       <div class="cv-title">Ekoparty</div>
       <div class="cv-meta">Trainer --- Getting Your Hands Dirty: Understanding &amp; Hunting Down Malware Attacks in Your Network</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2019</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
     </div>
   </li>
   <li class="cv-item">
@@ -184,22 +107,8 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
   <li class="cv-item">
     <div class="cv-date">2019</div>
     <div class="cv-main">
-      <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2019</div>
-    <div class="cv-main">
       <div class="cv-title">Troopers</div>
       <div class="cv-meta">Trainer --- Machine Learning for Network Security and Malware Detection</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2018</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Europe</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis - Adversarial Thinking</div>
     </div>
   </li>
   <li class="cv-item">
