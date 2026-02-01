@@ -167,6 +167,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 ## Peer-reviewed Conferences and Journals
 
 - [VelLMes: A high-interaction AI-based deception framework](https://ieeexplore.ieee.org/abstract/document/11129519). In 4th Workshop on Active Defense and Deception (AD&D) co-located with the 10th IEEE European Symposium on Security and Privacy (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2025). 
+- [DeepRed: A Deep Learning-Powered Command and Control Framework for Multi-Stage Red Teaming against ML-based Network Intrusion Detection Systems](https://www.usenix.org/system/files/woot25-hajizadeh.pdf). In Proceedings of the 19th USENIX Conference on Offensive Technologies (WOOT '25). Hajizadeh, M., Golchin, P., Nowroozi, E., Rigaki, M., Valeros, V., García, S., Conti, M., & Bauschert, T. (2025).
 - [CTU Hornet 65 Niner: A network dataset of geographically distributed low-interaction honeypots](https://www.sciencedirect.com/science/article/pii/S235234092401223X). Data in Brief, 111261. Valeros, V., & Garcia, S. (2024). 
 - [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](https://arxiv.org/pdf/2404.01940). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Valeros, V., Širokova, A., Catania, C., & Garcia, S. (2024). 
 - [LLM in the Shell: Generative Honeypots](https://arxiv.org/pdf/2309.00155). In 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW). Sladić, M., Valeros, V., Catania, C., & Garcia, S. (2024). 
