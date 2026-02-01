@@ -43,42 +43,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 
 <ul class="cv-list">
   <li class="cv-item">
-    <div class="cv-date">Fall 2025</div>
-    <div class="cv-main">
-      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
-      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">Fall 2024</div>
-    <div class="cv-main">
-      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
-      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">Fall 2023</div>
-    <div class="cv-main">
-      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
-      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">Fall 2022</div>
-    <div class="cv-main">
-      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
-      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">Fall 2021</div>
-    <div class="cv-main">
-      <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
-      <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">Fall 2020</div>
+    <div class="cv-date">Fall 2020-ongoing</div>
     <div class="cv-main">
       <div class="cv-title">Teaching Assistant --- <a href="https://cybersecurity.bsy.fel.cvut.cz/">Introduction to Computer Security (in English)</a></div>
       <div class="cv-meta">Open Informatics Master Program, CTU in Prague</div>
