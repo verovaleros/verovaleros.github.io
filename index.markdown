@@ -154,7 +154,7 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 <summary>Review Boards</summary>
 
 - BlackHat Arsenal Review Board, 2024-Ongoing
-- BlackHat Trainings Review Board, 2022-Ongoing
+- BlackHat Trainings Review Board, 2022-2025
 - Workshop on Attackers and Cyber-Crime Operations Program Committee, IEEE European Symposium on Security and Privacy, 2021-2025
 - Ekoparty Security Conference Review Board, 2018-2025
 - BlackHat Briefings EU Review Board, 2018
