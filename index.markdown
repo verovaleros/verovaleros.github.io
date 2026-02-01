@@ -56,23 +56,9 @@ I deliver intensive, hands-on training in network traffic and malware analysis, 
 <summary>Trainings</summary>
 <ul class="cv-list">
   <li class="cv-item">
-    <div class="cv-date">2019-2025</div>
+    <div class="cv-date">2018-ongoing</div>
     <div class="cv-main">
-      <div class="cv-title">BlackHat USA</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2019, 2020, 2023-2025</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Asia</div>
-      <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
-    </div>
-  </li>
-  <li class="cv-item">
-    <div class="cv-date">2018, 2020-2022</div>
-    <div class="cv-main">
-      <div class="cv-title">BlackHat Europe</div>
+      <div class="cv-title">BlackHat (USA, Asia, Europe)</div>
       <div class="cv-meta">Trainer --- Advanced Malware Traffic Analysis (various editions)</div>
     </div>
   </li>
